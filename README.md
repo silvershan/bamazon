@@ -35,6 +35,8 @@ The user is then prompted to enter the ID of the product they wish to purchase.
 
 <img width="1292" alt="Screen Shot 2019-03-14 at 5 37 27 PM" src="https://user-images.githubusercontent.com/44039173/54400642-092a3f80-4681-11e9-876d-1720c232d839.png">
 
+The user is then prompted the enter the quantity of the product they wish to purchase.  After they choose the quantity, they are either shown that the purchase is complete with their purchase total, or there is an error that occurs because there are not enough of the product left in inventory.
+
 
 <img width="1190" alt="Screen Shot 2019-03-14 at 5 37 44 PM" src="https://user-images.githubusercontent.com/44039173/54400643-092a3f80-4681-11e9-94a1-8bd4697abf1e.png">
 
