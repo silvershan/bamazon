@@ -11,7 +11,6 @@
 
 ### Code
 
-<img width="1270" alt="Screen Shot 2019-03-09 at 1 59 42 PM" src="https://user-images.githubusercontent.com/44039173/54400626-04658b80-4681-11e9-9405-62a34b2ae7f0.png">
 
 
 
