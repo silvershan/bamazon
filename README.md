@@ -12,15 +12,15 @@
 ### Code
 
 
-
-
 <img width="1214" alt="Screen Shot 2019-03-14 at 5 35 26 PM" src="https://user-images.githubusercontent.com/44039173/54400627-04658b80-4681-11e9-8070-7178ba72fc92.png">
+
+
+<img width="1194" alt="Screen Shot 2019-03-14 at 5 35 52 PM" src="https://user-images.githubusercontent.com/44039173/54400628-04fe2200-4681-11e9-937d-55dfb47d8975.png">
 
 
 
 ## Deployment
 
-<img width="1194" alt="Screen Shot 2019-03-14 at 5 35 52 PM" src="https://user-images.githubusercontent.com/44039173/54400628-04fe2200-4681-11e9-937d-55dfb47d8975.png">
 
 
 <img width="1384" alt="Screen Shot 2019-03-14 at 5 36 46 PM" src="https://user-images.githubusercontent.com/44039173/54400629-04fe2200-4681-11e9-8690-d1a55ed1939a.png">
