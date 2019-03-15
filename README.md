@@ -25,6 +25,8 @@
 
 <img width="1384" alt="Screen Shot 2019-03-14 at 5 36 46 PM" src="https://user-images.githubusercontent.com/44039173/54400629-04fe2200-4681-11e9-8690-d1a55ed1939a.png">
 
+When Node is run on the command line, the table appears with all of the products available for sale. 
+
 
 <img width="1322" alt="Screen Shot 2019-03-14 at 5 37 14 PM" src="https://user-images.githubusercontent.com/44039173/54400641-092a3f80-4681-11e9-8ed7-1c2797e8e651.png">
 
