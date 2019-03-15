@@ -40,5 +40,6 @@ The user is then prompted the enter the quantity of the product they wish to pur
 
 <img width="1190" alt="Screen Shot 2019-03-14 at 5 37 44 PM" src="https://user-images.githubusercontent.com/44039173/54400643-092a3f80-4681-11e9-94a1-8bd4697abf1e.png">
 
+Once the user re-opens the table, it shows that there are fewer products based on what they had already purchased, but that they can purchase again from the total quantity of products.
 
 
