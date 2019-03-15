@@ -30,6 +30,8 @@ When Node is run on the command line, the table appears with all of the products
 
 <img width="1322" alt="Screen Shot 2019-03-14 at 5 37 14 PM" src="https://user-images.githubusercontent.com/44039173/54400641-092a3f80-4681-11e9-8ed7-1c2797e8e651.png">
 
+The user is then prompted to enter the ID of the product they wish to purchase.
+
 
 <img width="1292" alt="Screen Shot 2019-03-14 at 5 37 27 PM" src="https://user-images.githubusercontent.com/44039173/54400642-092a3f80-4681-11e9-876d-1720c232d839.png">
 
